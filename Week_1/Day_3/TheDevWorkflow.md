@@ -14,4 +14,7 @@
 
 #### Git
 
- - 
+ - ```git add .``` will add all changed files in ```this``` directory and all child directories
+ - # :q! to exit VIM
+
+- always write ```git push origin``` and specify the branch. will typically be main, but will change once you program with branches.
