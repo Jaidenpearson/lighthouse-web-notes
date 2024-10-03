@@ -11,6 +11,9 @@ This repository contains all of the notes taken by [Jaiden](https://github.com/J
   - [Day 2](/Week_1/Day_2/Markdown-cheatsheet.md)
   - [Day 3](/Week_1/Day_3/TheDevWorkflow.md)
 
+- [Week 2](/Week_2/)
+  - [Day 1](/Week_2/day_1/objects_in_JS.md)
+
 ### Project
 
 [Lotide]()
