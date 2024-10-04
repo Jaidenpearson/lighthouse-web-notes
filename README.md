@@ -13,6 +13,7 @@ This repository contains all of the notes taken by [Jaiden](https://github.com/J
 
 - [Week 2](/Week_2/)
   - [Day 1](/Week_2/day_1/objects_in_JS.md)
+  - [Day 2](Week_2/day_2.md)
 
 ### Project
 
