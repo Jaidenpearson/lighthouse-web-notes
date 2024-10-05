@@ -1,6 +1,6 @@
-const head = function(arr) {
-  let head = arr[0];
-  return head;
+const tail = function(arr) {
+  let newarr = arr.slice(1);
+  return newarr;
 };
 
 const assertEqual = function(actual, expected) {
@@ -11,17 +11,15 @@ const assertEqual = function(actual, expected) {
   }
 };
 
-// TEST CODE
-
-// ASSERT EQUAL TESTS
+// ASSERT EQUAL TEST CODE
 assertEqual("Lighthouse Labs", "Bootcamp");
 assertEqual(1, 1);
 assertEqual(1, 4);
 assertEqual(5, "Hey mom look at me!");
 
-// HEAD TESTS
-assertEqual(head([5, 6, 7]), 5);
-assertEqual(head(["Hello", "Lighthouse", "Labs"]), "Hello");
-assertEqual(head([5, 6, 7]), 6);
-assertEqual(head(["Hello", "Lighthouse", "Labs"]), "Hell");
-assertEqual(head(),);
+// TAIL TEST CODE
+
+const result = tail(["Hello", "Lighthouse", "Labs"]);
+assertEqual(result.length, 2);
+assertEqual(result[0], "Lighthouse");
+assertEqual(result[1], "Lab");
