@@ -15,6 +15,9 @@ This repository contains all of the notes taken by [Jaiden](https://github.com/J
   - [Day 1](/Week_2/day_1/objects_in_JS.md)
   - [Day 2](Week_2/day_2.md)
 
+- [Week 3] (/Week_3/)
+  - [Day 1] (/Week_3/Day_1)
+
 ### Project
 
 [Lotide]()
