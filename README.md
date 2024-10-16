@@ -18,6 +18,9 @@ This repository contains all of the notes taken by [Jaiden](https://github.com/J
 - [Week 3] (/Week_3/)
   - [Day 1] (/Week_3/Day_1)
 
+- [Week_4](/Week_4/)
+  - [Day 1](/Week_4/AsyncControl.md)
+
 ### Project
 
 [Lotide]()
